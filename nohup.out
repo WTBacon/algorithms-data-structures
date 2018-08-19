@@ -1,0 +1,297 @@
+[I 22:25:30.405 NotebookApp] Serving notebooks from local directory: /Users/s02825/algorithms-data-structures
+[I 22:25:30.405 NotebookApp] The Jupyter Notebook is running at:
+[I 22:25:30.405 NotebookApp] http://localhost:8888/?token=fd171e027c869f08d5ba0bea6e19dcb29d2e2515abc504e3
+[I 22:25:30.405 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:25:30.408 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fd171e027c869f08d5ba0bea6e19dcb29d2e2515abc504e3
+[I 22:25:30.588 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 22:26:37.110 NotebookApp] Creating new notebook in 
+[I 22:26:37.125 NotebookApp] Writing notebook-signing key to /Users/s02825/Library/Jupyter/notebook_secret
+[I 22:26:38.077 NotebookApp] Kernel started: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 22:26:38.726 NotebookApp] Adapting to protocol v5.1 for kernel e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 22:28:38.021 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:30:38.014 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:32:38.103 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:34:39.798 NotebookApp] Saving file at /Untitled.ipynb
+[W 22:42:20.600 NotebookApp] Notebook Satellite_v03_20180424.ipynb is not trusted
+[I 22:42:22.282 NotebookApp] Kernel started: 831f3b45-75c0-4a2b-b129-fdb0e0453951
+[I 22:42:22.800 NotebookApp] Adapting to protocol v5.1 for kernel 831f3b45-75c0-4a2b-b129-fdb0e0453951
+[I 22:42:28.802 NotebookApp] Saving file at /Satellite_v03_20180424.ipynb
+[W 22:42:28.917 NotebookApp] Trusting notebook /Satellite_v03_20180424.ipynb
+[I 22:42:29.051 NotebookApp] Starting buffering for 831f3b45-75c0-4a2b-b129-fdb0e0453951:112bcd2288614559b3eddc8bcfd4161f
+[I 22:42:30.872 NotebookApp] Adapting to protocol v5.1 for kernel 831f3b45-75c0-4a2b-b129-fdb0e0453951
+[I 22:44:38.088 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:30:38.105 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:32:11.138 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:32:38.032 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:34:38.031 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:36:38.099 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:50:38.039 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:52:38.032 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:54:38.103 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:56:38.041 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:58:38.038 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:00:38.039 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:02:38.127 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:04:38.035 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:05:05.574 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:06:38.040 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:06:44.719 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:06:53.872 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:07:45.980 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:07:55.942 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:08:18.927 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:08:40.117 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:10:09.299 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:10:40.110 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:12:40.067 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:13:11.210 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:13:27.359 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:14:40.113 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:15:22.092 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:16:40.120 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:17:56.728 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 00:18:40.108 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:43:15.405 NotebookApp] Kernel interrupted: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 23:44:53.739 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:46:53.736 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:48:53.732 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:50:53.680 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:52:53.677 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:54:53.680 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:56:53.672 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:58:53.672 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:00:53.672 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:02:53.733 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:04:53.686 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:06:53.729 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:24:22.687 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:26:22.690 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:28:22.692 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:30:22.689 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:34:22.693 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:36:22.690 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:38:22.740 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:49:07.460 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:51:07.402 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:53:07.440 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:01:07.421 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:03:07.421 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:05:07.461 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:14:49.843 NotebookApp] Kernel shutdown: 831f3b45-75c0-4a2b-b129-fdb0e0453951
+[I 17:14:54.654 NotebookApp] Copying ALDS1_1_D.ipynb to 
+[I 17:14:58.735 NotebookApp] Kernel started: c4e1e827-ecf5-43d9-b5df-b8bd7ced6f00
+[I 17:15:01.366 NotebookApp] Adapting to protocol v5.1 for kernel c4e1e827-ecf5-43d9-b5df-b8bd7ced6f00
+[I 17:15:07.459 NotebookApp] Saving file at /ALDS1_1_D.ipynb
+[I 17:16:58.703 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 17:18:59.461 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 17:20:58.702 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 17:22:58.711 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 17:24:58.706 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 17:34:59.503 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 17:36:58.707 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 17:38:58.709 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:26:58.714 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:38:58.718 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:40:58.716 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:42:59.581 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:44:58.717 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:46:58.719 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:48:58.719 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:50:58.720 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:52:59.481 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:54:59.480 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 18:55:26.858 NotebookApp] Starting buffering for e03cb4bd-03ea-4af1-9746-7a04a0317cb0:428e5fe8dfd940638a71ce9af5631baf
+[I 18:56:59.501 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:00:58.722 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:02:58.723 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:04:58.723 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:06:58.723 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:08:58.724 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:10:58.725 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:11:17.237 NotebookApp] Adapting to protocol v5.1 for kernel e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 19:12:59.598 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:14:59.484 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:15:17.234 NotebookApp] Saving file at /ALDS1_1_D.ipynb
+[I 19:17:17.236 NotebookApp] Saving file at /ALDS1_1_D.ipynb
+[I 19:17:56.780 NotebookApp] Saving file at /ALDS1_1_D.ipynb
+[I 19:17:58.035 NotebookApp] Saving file at /ALDS1_1_D.ipynb
+[I 19:17:59.967 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:18:58.726 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:20:59.756 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:22:58.735 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:23:43.973 NotebookApp] Kernel interrupted: c4e1e827-ecf5-43d9-b5df-b8bd7ced6f00
+[I 19:23:51.265 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:23:52.115 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:26:58.738 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:28:58.737 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:41:41.199 NotebookApp] Copying ALDS1_1_A.ipynb to 
+[I 19:41:45.264 NotebookApp] Kernel started: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 19:41:45.989 NotebookApp] Adapting to protocol v5.1 for kernel 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 19:43:45.505 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 19:44:58.749 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:45:45.507 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 19:46:59.507 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 19:47:45.266 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 21:51:45.286 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 21:53:45.278 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 21:55:45.544 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 21:57:45.283 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 21:59:45.286 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:01:45.286 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:03:45.287 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:05:45.287 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:07:45.287 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:09:45.550 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:11:45.292 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:13:45.287 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:15:45.291 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:17:45.554 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:21:45.293 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:23:45.294 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:25:45.292 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:27:45.295 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:29:45.283 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:29:56.737 NotebookApp] Kernel interrupted: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 22:31:45.299 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:32:01.410 NotebookApp] Kernel interrupted: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 22:33:45.288 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:35:45.284 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:39:45.286 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:41:45.287 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:43:45.288 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:45:05.050 NotebookApp] Kernel interrupted: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 22:45:45.289 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:46:45.466 NotebookApp] Kernel interrupted: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 22:47:06.082 NotebookApp] Kernel interrupted: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 22:47:29.212 NotebookApp] Kernel interrupted: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 22:47:45.285 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:49:45.285 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:51:45.286 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:53:45.287 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:54:58.766 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 22:55:45.288 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:55:50.457 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 22:55:51.310 NotebookApp] Saving file at /ALDS1_1_A.ipynb
+[I 22:55:51.955 NotebookApp] Saving file at /ALDS1_1_D.ipynb
+[I 23:02:58.081 NotebookApp] Copying ALDS1_2_A.ipynb to 
+[I 23:03:00.759 NotebookApp] Kernel started: eae37102-6f01-411c-85f4-5a7d38c79d84
+[I 23:03:01.393 NotebookApp] Adapting to protocol v5.1 for kernel eae37102-6f01-411c-85f4-5a7d38c79d84
+[I 23:15:00.761 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:17:00.760 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:19:00.761 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:21:00.759 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:23:00.763 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:25:00.758 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:25:45.536 NotebookApp] Saving file at /ALDS1_2_A.ipynb
+[I 23:27:00.759 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:27:53.598 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:27:53.679 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:27:56.952 NotebookApp] Saving file at /ALDS1_2_A-Copy1.ipynb
+[I 23:43:40.509 NotebookApp] Copying ALDS1_2_B.ipynb to 
+[I 23:43:42.182 NotebookApp] Kernel started: 2874c40e-2721-4245-82b7-49a013554a2b
+[I 23:43:42.816 NotebookApp] Adapting to protocol v5.1 for kernel 2874c40e-2721-4245-82b7-49a013554a2b
+[I 23:45:42.572 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 23:49:42.187 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 23:51:06.178 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 23:51:42.183 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 23:53:42.183 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 23:55:42.183 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 23:57:42.548 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 23:59:42.189 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:01:42.561 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:03:42.183 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:05:42.183 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:07:42.184 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:09:42.185 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:11:42.191 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:19:42.190 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:21:42.189 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:23:42.189 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:25:42.191 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:27:42.191 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:29:13.190 NotebookApp] Kernel interrupted: 2874c40e-2721-4245-82b7-49a013554a2b
+[I 00:29:42.189 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:31:42.191 NotebookApp] Saving file at /ALDS1_2_B-Copy1.ipynb
+[I 00:32:58.778 NotebookApp] Saving file at /ALDS1_2_C.ipynb
+[I 00:32:59.851 NotebookApp] Saving file at /ALDS1_2_C.ipynb
+[I 22:18:22.597 NotebookApp] Copying ALDS1_2_C.ipynb to 
+[I 22:18:24.959 NotebookApp] Kernel started: cf2df186-8f0e-408b-8026-3b47d91df870
+[I 22:18:25.764 NotebookApp] Adapting to protocol v5.1 for kernel cf2df186-8f0e-408b-8026-3b47d91df870
+[I 22:18:36.493 NotebookApp] Kernel shutdown: c4e1e827-ecf5-43d9-b5df-b8bd7ced6f00
+[I 22:18:36.705 NotebookApp] Kernel shutdown: 2874c40e-2721-4245-82b7-49a013554a2b
+[I 22:18:37.019 NotebookApp] Kernel shutdown: e03cb4bd-03ea-4af1-9746-7a04a0317cb0
+[I 22:18:37.229 NotebookApp] Kernel shutdown: 93a73aeb-658c-49a7-961d-445466cdf47c
+[I 22:18:37.441 NotebookApp] Kernel shutdown: eae37102-6f01-411c-85f4-5a7d38c79d84
+[I 22:20:24.957 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 22:22:24.960 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:21:07.429 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:23:07.418 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:25:07.419 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:51:07.425 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:53:07.425 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:55:07.425 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:57:07.426 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 23:59:07.426 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 00:01:07.426 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 00:03:07.427 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 00:05:07.427 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 00:13:07.435 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 00:15:07.432 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 00:17:08.375 NotebookApp] Saving file at /ALDS1_2_C-Copy1.ipynb
+[I 22:50:23.538 NotebookApp] Starting buffering for cf2df186-8f0e-408b-8026-3b47d91df870:3e0081e5144f47079e2d232b377debaa
+[I 22:50:25.800 NotebookApp] Adapting to protocol v5.1 for kernel cf2df186-8f0e-408b-8026-3b47d91df870
+[I 22:52:25.767 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:01:38.696 NotebookApp] Kernel started: 8f1bf10b-2fc5-4347-b27f-ffc8c9af4c2e
+[I 23:01:40.707 NotebookApp] Adapting to protocol v5.1 for kernel 8f1bf10b-2fc5-4347-b27f-ffc8c9af4c2e
+[I 23:01:49.866 NotebookApp] Starting buffering for 8f1bf10b-2fc5-4347-b27f-ffc8c9af4c2e:d75280feb07e41fda360374070891ea3
+[I 23:01:52.219 NotebookApp] Kernel started: c12337b9-fa12-473b-a235-542b8ebff63a
+[I 23:01:52.805 NotebookApp] Adapting to protocol v5.1 for kernel c12337b9-fa12-473b-a235-542b8ebff63a
+[I 23:01:56.662 NotebookApp] Starting buffering for c12337b9-fa12-473b-a235-542b8ebff63a:c117fb6815a143fe98435fd0c0ce58fe
+[I 23:02:00.695 NotebookApp] Kernel started: ffd8f31e-ce57-4b9c-8b75-3937244c4983
+[I 23:02:01.263 NotebookApp] Adapting to protocol v5.1 for kernel ffd8f31e-ce57-4b9c-8b75-3937244c4983
+[I 23:02:08.685 NotebookApp] Kernel started: 26737f0c-4f9a-4196-935f-df4704880933
+[I 23:02:09.210 NotebookApp] Adapting to protocol v5.1 for kernel 26737f0c-4f9a-4196-935f-df4704880933
+[I 23:02:21.274 NotebookApp] Kernel started: 0d49f06c-16a7-45dc-8a72-c8a25e2ce972
+[I 23:02:21.829 NotebookApp] Adapting to protocol v5.1 for kernel 0d49f06c-16a7-45dc-8a72-c8a25e2ce972
+[I 23:04:25.764 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:08:25.767 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:10:26.319 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:12:25.767 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:14:25.771 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:16:25.772 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:20:25.772 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:22:25.772 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:24:25.771 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:26:27.496 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:28:25.766 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:30:25.770 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:32:25.775 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:34:25.772 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:35:14.848 NotebookApp] Starting buffering for 0d49f06c-16a7-45dc-8a72-c8a25e2ce972:d3c7b25964224f6bb9b57561de5440cf
+[I 23:35:15.126 NotebookApp] Starting buffering for 26737f0c-4f9a-4196-935f-df4704880933:4b77f046ae144f288fc97f8008102e63
+[I 23:35:15.384 NotebookApp] Starting buffering for ffd8f31e-ce57-4b9c-8b75-3937244c4983:2a015546c61149f583322a5ba34d5a3b
+[I 23:35:27.401 NotebookApp] Kernel shutdown: 26737f0c-4f9a-4196-935f-df4704880933
+[I 23:35:27.610 NotebookApp] Kernel shutdown: 8f1bf10b-2fc5-4347-b27f-ffc8c9af4c2e
+[I 23:35:27.814 NotebookApp] Kernel shutdown: c12337b9-fa12-473b-a235-542b8ebff63a
+[I 23:35:28.123 NotebookApp] Kernel shutdown: ffd8f31e-ce57-4b9c-8b75-3937244c4983
+[I 23:35:28.340 NotebookApp] Kernel shutdown: 0d49f06c-16a7-45dc-8a72-c8a25e2ce972
+[I 23:36:25.774 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:38:25.779 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:40:25.777 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:46:25.774 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:47:47.702 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:48:25.774 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:50:25.773 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:52:25.778 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:54:25.776 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:56:25.778 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 23:58:26.342 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 00:00:25.776 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 00:02:25.776 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 00:04:25.783 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 00:06:25.780 NotebookApp] Saving file at /ALDS1_2_D.ipynb
+[I 00:08:26.356 NotebookApp] Saving file at /ALDS1_2_D.ipynb
